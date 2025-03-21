@@ -37,3 +37,4 @@ function displayNews() {
         .catch(error => {
             console.error("Error fetching news:", error);
         });
+}
